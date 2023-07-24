@@ -1,0 +1,15 @@
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0\Scientific Calculator.exe
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0\Scientific Calculator.deps.json
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0\Scientific Calculator.runtimeconfig.json
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0\Scientific Calculator.dll
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0\Scientific Calculator.pdb
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\Scientific Calculator.csproj.AssemblyReference.cache
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\Scientific Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\Scientific Calculator.AssemblyInfoInputs.cache
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\Scientific Calculator.AssemblyInfo.cs
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\Scientific Calculator.csproj.CoreCompileInputs.cache
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\Scientific Calculator.dll
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\refint\Scientific Calculator.dll
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\Scientific Calculator.pdb
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\Scientific Calculator.genruntimeconfig.cache
+D:\programming\.NET api\C#\CSharp-conslole-calculator\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0\ref\Scientific Calculator.dll
